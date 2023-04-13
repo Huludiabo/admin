@@ -1,0 +1,23 @@
+
+
+.m-t-50{
+    margin-top: 50px;
+}
+.m-l-70{
+    margin-left: 70px;
+}
+.flex{
+    display: flex;
+}
+.column{
+    flex-direction: column;
+}
+.yCenter{
+    align-items: center;
+}
+.xCenter{
+    justify-content: center;
+}
+.between{
+    justify-content: space-between;
+}
